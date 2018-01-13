@@ -1,0 +1,46 @@
+#1. Divide􀀀and􀀀Conquer
+  1. Binary Search
+  2. Merge Sort
+  3. Quick Sort
+  4. Given a sorted array of non-repeated integers A[1:::n]; n > 1 then check whether there is
+     an index i for which A[i] = i. Give an algorithm that runs in O(logn) time
+
+#2. Divide􀀀and􀀀Conquer
+  1. Strassen0s Matrix Multiplication
+  
+#3. Greedy Method [10]
+  1. Knapsack Problem
+  2. Job sequencing with deadlines algorithm
+
+#4. Greedy Method
+  1. Prim0s Algorithm for nding the minimal spanning trees
+  2. Krushkal0s Algorithm for nding the minimal spanning trees
+  3. Dijkstra0s Algorithm
+#5. Sorting and Searching [20]
+  1. Insertion Sort
+  2. Selection Sort
+  3. Heap Sort
+#6. Sorting and Searching [20]
+1. Shell Sort
+7. Problems on Sorting and Searching [10]
+1. Given an array of n elements. Find whether there are two elements in the array such that
+their sum is equal to given element K or not? in O(nlogn) time.
+Student's name: Please go on to the next page. . .
+Design and Analysis of Algorithms Computer Science | DAA Page 2 of 2
+2. Given an array of n elements. Find whether there are three elements in the array such
+that their sum is equal to given element K or not? in O(n2) time.
+3. Let A and B be two arrays of n elements. Given a number K, draw an O(nlogn) time
+algorithm for determining whether there exists a 2 A, b 2 B such that a+b = K or not?.
+4. Given an array of n elements, give an algorithm for checking whether there are any
+duplicate elements in the array or not? in O(nlogn) time.
+5. Given an array of n elements, give an algorithm for nding the element which appears
+maximum number of times in the array in O(nlogn) time. 
+8. Dynamic Programming
+1. Finding the optimal order of multiplying n matrices
+
+9. Dynamic Programming
+1. Construction of OBST
+
+10. Sorting and Searching
+1. Given an array of n elements, derive an algorithm for nding the rst element in the array
+which is repeated.
